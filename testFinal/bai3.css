@@ -1,0 +1,107 @@
+.container{
+    max-width: 1320px;
+    margin: auto;
+}
+.col-1{
+    width: 8.3%;
+    flex: 0 0 auto;
+}
+.col-2{
+    width: 16.6%;
+    flex: 0 0 auto;
+}
+.col-3{
+    width: 25%;
+    flex: 0 0 auto;
+}
+.col-4{
+    width: 33.3%;
+    flex: 0 0 auto;
+}
+.col-5{
+    width: 41.6%;
+    flex: 0 0 auto;
+}
+.col-6{
+    width: 50%;
+    flex: 0 0 auto;
+}
+.col-7{
+    width: 58.3%;
+    flex: 0 0 auto;
+}
+.col-8{
+    width: 66.6%;
+    flex: 0 0 auto;
+}
+.col-9{
+    width: 75%;
+    flex: 0 0 auto;
+}
+.col-10{
+    width: 83.3%;
+    flex: 0 0 auto;
+}
+.col-11{
+    width: 91.6%;
+    flex: 0 0 auto;
+}
+.col-12{
+    width: 100% !important;
+    flex: 0 0 auto;
+}
+.p-4{
+    padding: 40px;
+}
+.textCenter{
+    text-align: center !important;
+}
+.btn-random {
+    color: #141E51;
+    background: #fff;
+    padding: 7px 20px;
+    font-weight: 700;
+    border-radius: 25px;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    display: block;
+    margin: auto;
+}
+.btn-random:focus {
+  outline: none;
+}
+.background-default{
+    background: lightblue;
+    height: 400px;
+    justify-content: center;
+    display: flex;
+}
+.buttonStyle{
+    color: #000000;
+    background: rgb(225, 100, 100);
+    border-radius: 10px;
+    padding: 7px 20px;
+    font-weight: 700;
+    border-radius: 25px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+    text-align: center;
+    width:33% 
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }

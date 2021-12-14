@@ -50,7 +50,7 @@ body{
     background-image: url(./img/SecretOriginDC.jpg);
     background-repeat: repeat-y;
     background-position: top; 
-    background-size: cover;
+    background-size: inherit;
 }
 .textCenter{
     text-align: center;
